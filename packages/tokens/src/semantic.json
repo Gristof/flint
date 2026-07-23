@@ -1,0 +1,73 @@
+{
+  "color": {
+    "$type": "color",
+    "background": {
+      "$value": "{color.stone.50}",
+      "$extensions": { "mode": { "light": "{color.stone.50}", "dark": "{color.stone.950}" } }
+    },
+    "foreground": {
+      "$value": "{color.stone.900}",
+      "$extensions": { "mode": { "light": "{color.stone.900}", "dark": "{color.stone.50}" } }
+    },
+    "card": {
+      "$value": "{color.white}",
+      "$extensions": { "mode": { "light": "{color.white}", "dark": "{color.stone.900}" } }
+    },
+    "card-foreground": {
+      "$value": "{color.stone.900}",
+      "$extensions": { "mode": { "light": "{color.stone.900}", "dark": "{color.stone.50}" } }
+    },
+    "primary": {
+      "$value": "{color.ember.600}",
+      "$extensions": { "mode": { "light": "{color.ember.600}", "dark": "{color.ember.500}" } }
+    },
+    "primary-foreground": {
+      "$value": "{color.white}",
+      "$extensions": { "mode": { "light": "{color.white}", "dark": "{color.stone.950}" } }
+    },
+    "secondary": {
+      "$value": "{color.stone.200}",
+      "$extensions": { "mode": { "light": "{color.stone.200}", "dark": "{color.stone.800}" } }
+    },
+    "secondary-foreground": {
+      "$value": "{color.stone.900}",
+      "$extensions": { "mode": { "light": "{color.stone.900}", "dark": "{color.stone.50}" } }
+    },
+    "muted": {
+      "$value": "{color.stone.100}",
+      "$extensions": { "mode": { "light": "{color.stone.100}", "dark": "{color.stone.800}" } }
+    },
+    "muted-foreground": {
+      "$value": "{color.stone.500}",
+      "$extensions": { "mode": { "light": "{color.stone.500}", "dark": "{color.stone.400}" } }
+    },
+    "accent": {
+      "$value": "{color.stone.100}",
+      "$extensions": { "mode": { "light": "{color.stone.100}", "dark": "{color.stone.800}" } }
+    },
+    "accent-foreground": {
+      "$value": "{color.stone.900}",
+      "$extensions": { "mode": { "light": "{color.stone.900}", "dark": "{color.stone.50}" } }
+    },
+    "destructive": {
+      "$value": "{color.blood.600}",
+      "$extensions": { "mode": { "light": "{color.blood.600}", "dark": "{color.blood.500}" } }
+    },
+    "destructive-foreground": {
+      "$value": "{color.white}",
+      "$extensions": { "mode": { "light": "{color.white}", "dark": "{color.stone.50}" } }
+    },
+    "border": {
+      "$value": "{color.stone.200}",
+      "$extensions": { "mode": { "light": "{color.stone.200}", "dark": "{color.stone.800}" } }
+    },
+    "input": {
+      "$value": "{color.stone.300}",
+      "$extensions": { "mode": { "light": "{color.stone.300}", "dark": "{color.stone.700}" } }
+    },
+    "ring": {
+      "$value": "{color.ember.600}",
+      "$extensions": { "mode": { "light": "{color.ember.600}", "dark": "{color.ember.500}" } }
+    }
+  }
+}

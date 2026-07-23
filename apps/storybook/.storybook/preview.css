@@ -1,0 +1,19 @@
+@import "@flint/ui/globals.css";
+
+/* Pick up utility classes used inside story files */
+@source "../stories";
+
+/*
+ * Theme the Storybook canvas itself. Unlayered rules so they beat both
+ * Tailwind's @layer base and Storybook's own preview styles.
+ */
+body {
+  background-color: var(--flint-color-background);
+  color: var(--flint-color-foreground);
+}
+
+/* Inline story canvases on autodocs pages default to white */
+.docs-story,
+.sbdocs-preview {
+  background-color: var(--flint-color-background);
+}

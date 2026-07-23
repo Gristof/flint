@@ -1,0 +1,17 @@
+{
+  "name": "@flint/tokens",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tz build"
+  },
+  "exports": {
+    "./css": "./dist/tokens.css",
+    "./src/*": "./src/*"
+  },
+  "devDependencies": {
+    "@terrazzo/cli": "^2.4.0",
+    "@terrazzo/plugin-css": "^2.4.0"
+  }
+}

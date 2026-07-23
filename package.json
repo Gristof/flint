@@ -1,0 +1,10 @@
+{
+  "name": "flint",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev": "pnpm --filter @flint/storybook dev"
+  },
+  "packageManager": "pnpm@11.9.0"
+}
