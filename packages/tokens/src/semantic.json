@@ -17,6 +17,14 @@
       "$value": "{color.stone.900}",
       "$extensions": { "mode": { "light": "{color.stone.900}", "dark": "{color.stone.50}" } }
     },
+    "popover": {
+      "$value": "{color.white}",
+      "$extensions": { "mode": { "light": "{color.white}", "dark": "{color.stone.900}" } }
+    },
+    "popover-foreground": {
+      "$value": "{color.stone.900}",
+      "$extensions": { "mode": { "light": "{color.stone.900}", "dark": "{color.stone.50}" } }
+    },
     "primary": {
       "$value": "{color.ember.600}",
       "$extensions": { "mode": { "light": "{color.ember.600}", "dark": "{color.ember.500}" } }
