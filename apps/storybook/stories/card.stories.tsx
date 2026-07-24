@@ -26,8 +26,7 @@ export const SignUpForm: Story = {
       <CardHeader>
         <CardTitle>Create account</CardTitle>
         <CardDescription>
-          All colors, radii and fonts on this card come from flint design
-          tokens.
+          All colors, radii and fonts on this card come from flint design tokens.
         </CardDescription>
       </CardHeader>
       <CardContent className="flex flex-col gap-4">

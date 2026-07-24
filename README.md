@@ -29,11 +29,11 @@ DTCG JSON  ──►  Terrazzo  ──►  CSS custom properties  ──►  Tai
 
 ## Workspace layout
 
-| Package            | Purpose                                             |
-| ------------------ | --------------------------------------------------- |
-| `@flint/tokens`    | DTCG tokens + Terrazzo build                         |
-| `@flint/ui`        | shadcn components, Tailwind v4 theme wiring          |
-| `@flint/storybook` | Storybook 9 docs with light/dark theme toolbar       |
+| Package            | Purpose                                        |
+| ------------------ | ---------------------------------------------- |
+| `@flint/tokens`    | DTCG tokens + Terrazzo build                   |
+| `@flint/ui`        | shadcn components, Tailwind v4 theme wiring    |
+| `@flint/storybook` | Storybook 9 docs with light/dark theme toolbar |
 
 ## Usage
 
